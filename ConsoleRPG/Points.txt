@@ -1,0 +1,5 @@
+Added Ranged Attacks
+Added Magic Attacks 
+Re themed
+Added a fourth child to armour
+Added another attack type
